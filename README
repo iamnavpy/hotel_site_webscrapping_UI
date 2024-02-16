@@ -1,0 +1,5 @@
+--------------------------------
+1) I have used selenium as web driver and python as script language for webscrapping ,file name is -webscrapping_chapter.py
+2) I have used beautifulsoup for extracting and parsing html and get all deatils ,file name-unit_info.py
+3) used mongo db for storing all details, fila name intergration.py
+4) for UI used html and js , file name is Chapter_UI.html , cchapter_script.js
